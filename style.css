@@ -9,7 +9,7 @@
   padding: 0;
 }
 body {
-  background-color: lightcyan;
+  background-color: rgb(217, 160, 255);
   text-align: center;
 }
 .container {
@@ -34,18 +34,18 @@ body {
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
   font-size: 8vmin;
   color: red;
-  background-color: yellow;
+  background-color: rgb(255, 255, 255);
 }
 #reset {
   padding: 1rem;
   font-size: 1.25rem;
-  background: #191913;
-  color: white;
+  background: #fefe8d;
+  color: rgb(84, 84, 84);
   border-radius: 1rem;
   border: none;
 }
 .box:hover {
-  background-color: chocolate;
+  background-color: rgb(241, 241, 241);
 }
 #new-btn {
   padding: 1rem;
