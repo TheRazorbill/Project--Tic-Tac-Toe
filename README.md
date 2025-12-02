@@ -12,7 +12,7 @@ Um projeto clássico de Jogo da Velha (Tic Tac Toe) desenvolvido com **HTML**, *
 
 Você pode visualizar o projeto em funcionamento no link abaixo:
 
- **[GitHub Pages](--)**
+ **[GitHub Pages](https://therazorbill.github.io/Project--Tic-Tac-Toe/)**
 
 ---
 ##  Funcionalidades
