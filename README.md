@@ -6,6 +6,15 @@ Um projeto clássico de Jogo da Velha (Tic Tac Toe) desenvolvido com **HTML**, *
 
 <img width="785" height="948" alt="Screenshot 2025-12-02 072151" src="https://github.com/user-attachments/assets/811d836c-5613-423e-9705-6f60bec873b7" />
 
+---
+
+##  Demonstração Ao Vivo
+
+Você pode visualizar o projeto em funcionamento no link abaixo:
+
+ **[GitHub Pages](--)**
+
+---
 ##  Funcionalidades
 
 - **Jogabilidade Local:** Dois jogadores podem jogar no mesmo navegador alternando turnos.
