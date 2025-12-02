@@ -55,12 +55,6 @@ const Gameboard = (() => {
 2.  Certifique-se de que os arquivos `index.html`, `style.css` e `script.js` estão na mesma pasta.
 3.  Abra o arquivo `index.html` em qualquer navegador moderno (Chrome, Firefox, Edge).
 
-##  Melhorias Futuras
-
-  - [ ] Adicionar uma IA para jogar contra o computador.
-  - [ ] Permitir que os jogadores escolham seus nomes no início.
-  - [ ] Adicionar placar de pontuação.
-
 -----
 
 Desenvolvido para fins de estudo e prática de JavaScript.
